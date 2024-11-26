@@ -1,0 +1,4 @@
+usuario1 senha1 grupo1
+usuario2 senha2 grupo2
+usuario3 senha3 grupo1
+usuario4 senha4 grupo3
